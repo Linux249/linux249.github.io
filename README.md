@@ -8,4 +8,13 @@ Components:
 
 Design:
 - Fotos:
--- https://unsplash.com/ Free fotos mit api
+  - https://unsplash.com/ Free fotos mit 
+
+- css: 
+  - https://www.styled-components.com/ 
+
+Fullstack:
+- https://github.com/reactGo/reactGo
+
+Styleguides: 
+- https://github.com/bendc/frontend-guidelines
