@@ -12,6 +12,9 @@ Design:
 
 - css: 
   - https://www.styled-components.com/ 
+  
+- icons:  
+  - svg's https://feathericons.com/
 
 Fullstack:
 - https://github.com/reactGo/reactGo
