@@ -7,6 +7,8 @@ Components:
 - perfect List: https://devarchy.com/react https://github.com/brillout/awesome-react-components
 
 Design:
+- Overall:
+  - List of Design inspiration: https://webflow.com/blog/17-amazing-sources-of-web-design-inspiration
 - Ideas:
   - https://www.behance.net/
   
