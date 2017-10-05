@@ -37,3 +37,8 @@ Styleguides:
 Guides: 
 - THE Front-End Guide https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
 - GraphQL https://www.howtographql.com/
+
+#### Testing
+- Motivation: https://hackernoon.com/common-excuses-why-developers-dont-test-their-software-908a465e122c
+- list of possible tests: http://www.softwaretestinghelp.com/types-of-software-testing/
+
