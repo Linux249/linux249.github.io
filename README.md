@@ -24,6 +24,9 @@ Design:
 - colors: 
   - Gradient https://www.canva.com/colors/
 
+Charts: 
+- https://github.com/plotly/plotly.js/
+
 Fullstack:
 - all necessary dependencies: https://github.com/reactGo/reactGo
 - a small CRA + Express guide: https://daveceddia.com/create-react-app-express-production/
