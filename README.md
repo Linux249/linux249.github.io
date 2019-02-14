@@ -40,6 +40,7 @@ Styleguides:
 Guides: 
 - THE Front-End Guide https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
 - GraphQL https://www.howtographql.com/
+- Webpack: basics, explicite https://www.sitepoint.com/beginners-guide-webpack-module-bundling/
 
 #### Testing
 - Motivation: https://hackernoon.com/common-excuses-why-developers-dont-test-their-software-908a465e122c
